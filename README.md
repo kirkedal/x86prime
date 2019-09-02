@@ -36,7 +36,7 @@ The script "buildall.sh" will build 4 tools:
  * prerf, like prun, but collect performance statistics
 
 ~~~
-> ./builall.sh
+> ./buildall.sh
 ~~~
 
 If by accident you have built part of the program using an old version, you
